@@ -1,2 +1,3 @@
-#React
-[show](https://miro.com/app/board/o9J_ljIUYsA=/)
+# React : 
+
+![Mind map](https://github.com/AcademyFS20/React/blob/mindmap-components/minmap.jpg)
